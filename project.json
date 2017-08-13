@@ -1,0 +1,8 @@
+{
+  "name": "alexa-home-automation",
+  "description": "Uses alexa intents to write to an MQTT Topic",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::757205839621:role/lambda_basic_execution",
+  "environment": {}
+}
